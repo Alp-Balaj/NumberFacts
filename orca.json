@@ -13,7 +13,7 @@
   "roles": {
     "planner":     { "allowedTools": ["Read", "Write"], "maxTurns": 10, "timeoutSeconds": 300 },
     "implementer": { "allowedTools": ["Read", "Write", "Edit", "Bash(dotnet*)", "Bash(git status)", "Bash(git diff)"], "maxTurns": 20, "timeoutSeconds": 600 },
-    "reconciler":  { "allowedTools": ["Read"], "maxTurns": 5, "timeoutSeconds": 180 },
-    "verifier":    { "allowedTools": ["Read", "Bash(dotnet*)"], "maxTurns": 10, "timeoutSeconds": 300 }
+    "reconciler":  { "allowedTools": ["Read", "Write"], "maxTurns": 5, "timeoutSeconds": 180 },
+    "verifier":    { "allowedTools": ["Read", "Write", "Bash(dotnet*)"], "maxTurns": 10, "timeoutSeconds": 300 }
   }
 }
