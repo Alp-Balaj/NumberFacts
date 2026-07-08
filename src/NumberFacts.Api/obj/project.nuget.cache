@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "y6jW4nkvUV8=",
+  "dgSpecHash": "TNXsqAyslVQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Alp\\Documents\\Projekt\\TestingOrca\\NumberFacts\\src\\NumberFacts.Api\\NumberFacts.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
-    "C:\\Users\\Alp\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\Alp\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
   ],
   "logs": [
     {
