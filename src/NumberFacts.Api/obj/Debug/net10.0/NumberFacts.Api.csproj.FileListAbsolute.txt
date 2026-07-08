@@ -31,3 +31,4 @@ C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\src\NumberFacts.Api\obj\D
 C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\src\NumberFacts.Api\obj\Debug\net10.0\NumberFacts.Api.pdb
 C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\src\NumberFacts.Api\obj\Debug\net10.0\NumberFacts.Api.genruntimeconfig.cache
 C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\src\NumberFacts.Api\obj\Debug\net10.0\ref\NumberFacts.Api.dll
+C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\src\NumberFacts.Api\obj\Debug\net10.0\NumberFacts.Api.sourcelink.json

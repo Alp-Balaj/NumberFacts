@@ -106,3 +106,4 @@ C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\tests\NumberFacts.Tests\o
 C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\tests\NumberFacts.Tests\obj\Debug\net10.0\NumberFacts.Tests.pdb
 C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\tests\NumberFacts.Tests\obj\Debug\net10.0\NumberFacts.Tests.genruntimeconfig.cache
 C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\tests\NumberFacts.Tests\obj\Debug\net10.0\ref\NumberFacts.Tests.dll
+C:\Users\Alp\Documents\Projekt\TestingOrca\NumberFacts\tests\NumberFacts.Tests\obj\Debug\net10.0\NumberFacts.Tests.sourcelink.json
